@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World I'm Alif Arya 👋
+
+![Alifarya32](img/github-header-image.png)
 
 <!--
 **Alifarya32/Alifarya32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **C++ | Python | Mysql**
