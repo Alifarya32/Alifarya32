@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning **C++ | Python | Mysql**
+- 🌱 I’m currently learning **Html | Python | Javascript**
